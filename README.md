@@ -1,0 +1,2 @@
+# homework
+Go ping yourself
